@@ -36,9 +36,10 @@ Features
       - Clone
     
     Compute Resource Management
-      - Host CPU
-      - Host Memory
-      - Host Storage
-      - Host Passthrough
+      - Host Add
+      - Host Remove
+      - Host Maintenance
+      - Host Resource Report
+      
 
 
